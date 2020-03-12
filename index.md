@@ -2,7 +2,7 @@
 
 ---
 
-### 
+>>> I am an avid reader and sometimes write code that works.
 
 ---
 <img src="images/logo.png?raw=true"/>
