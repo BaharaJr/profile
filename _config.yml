@@ -1,12 +1,14 @@
 title: Bennett Benedict # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+description:
+  > # your text below (remove <br> elements if you don't need line breaks)
+  Dev and Weirdo
   <br><br>
-  Second description 
+  Hey there, it's dope that you landed here. 
   <br><br>
-  <a href="https://www.linkedin.com/in/baharajr/">LinkedIn</a> 
-  
+  I am the World's Okayest Dev
+  <br><br>
+  <a href="https://www.linkedin.com/in/baharajr/">LinkedIn</a>
+
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-  
