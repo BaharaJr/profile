@@ -10,12 +10,7 @@ description:
   <br><br>
    <img src="images/logo.png?raw=true" style="width: 100px; height: 90px;"/>
   <br><br>
-  <a href="https://www.linkedin.com/in/baharajr/">LinkedIn</a>
-    <br><br>
-
-    <a href="https://twitter.com/BaharaJr">Twitter</a>
-    <br><br>
-        <a href="mailto:bennybenester@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/baharajr/">LinkedIn</a>       ||        <a href="https://twitter.com/BaharaJr">Twitter</a> ||         <a href="mailto:bennybenester@gmail.com">Email</a>
 
 theme: jekyll-theme-hacker
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
