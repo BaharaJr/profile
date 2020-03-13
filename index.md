@@ -5,7 +5,10 @@
 >>> I am an avid reader and sometimes write code that works.
 
 ---
-<img src="images/logo.png?raw=true"/>
+
+>>> Reach out to me
+   *[Email](bennybenester@gmail.com)
+<img src="images/logo.png?raw=true" style="width: 100px; height: 90px;"/>
 
 <!-- ### Category Name 1 
 
