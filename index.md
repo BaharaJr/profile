@@ -7,7 +7,7 @@
 ---
 
 >>> Reach out to me
-   *[Email](bennybenester@gmail.com)
+   [Email](mailto:bennybenester@gmail.com)
 <img src="images/logo.png?raw=true" style="width: 100px; height: 90px;"/>
 
 <!-- ### Category Name 1 
