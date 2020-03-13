@@ -6,11 +6,6 @@
 
 ---
 
->>> Reach out to me
-```bash
-   [Email](mailto:bennybenester@gmail.com)
-   ```
-
 <!-- ### Category Name 1 
 
  [Project 1 Title](/sample_page)
