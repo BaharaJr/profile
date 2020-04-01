@@ -1,4 +1,5 @@
 title: Bennett Benedict # your name (or website title) here
+uses: /uses
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description:
   > # your text below (remove <br> elements if you don't need line breaks)
